@@ -1,0 +1,226 @@
+{
+	"basics": {
+		"name": "Ahmet ALMAZ",
+		"label": "Full Stack Developer",
+		"image": "/me.png",
+		"email": "ahmet@news47ell.com",
+		"url": "https://www.news47ell.com",
+		"summary": "Full stack developer with passion for programming, problem solving and learning new tech.",
+		"location": {
+			"countryCode": "TR",
+			"country": "Türkiye",
+			"flagEmoji": "🇹🇷"
+		},
+		"profiles": [
+			{
+				"id": 2,
+				"network": "GitHub",
+				"username": "music47ell",
+				"url": "https://github.com/music47ell"
+			},
+			{
+				"id": 3,
+				"network": "LinkedIn",
+				"username": "music47ell",
+				"url": "https://www.linkedin.com/in/music47ell"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "ARER KONTROL ROBOTİK",
+			"position": "Student Intern",
+			"url": "https://www.arerotomasyon.com/",
+			"startDate": "2013-08-06",
+			"endDate": "2014-09-03"
+		},
+		{
+			"name": "Enkur Energy",
+			"position": "Full Stack Developer",
+			"url": "https://enkurenerji.com/",
+			"startDate": "2013-05-06",
+			"endDate": "2014-08-01"
+		},
+		{
+			"name": "Enkur Energy",
+			"position": "Student Intern",
+			"url": "https://company.com",
+			"startDate": "2013-02",
+			"endDate": "2014-04"
+		}
+	],
+	"education": [
+		{
+			"id": 1,
+			"institution": "Kahramanmaraş Sütçü İmam University",
+			"url": "https://www.ksu.edu.tr/",
+			"area": "Computer Engineering",
+			"startDate": "Sep 2018"
+		}
+	],
+	"certificates": [
+		{
+			"id": 1,
+			"name": "Responsive Web Design",
+			"issued": "October 18, 2018",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/responsive-web-design"
+		},
+		{
+			"id": 2,
+			"name": "JavaScript Algorithms and Data Structures",
+			"issued": "May 19, 2022",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/javascript-algorithms-and-data-structures"
+		},
+		{
+			"id": 3,
+			"name": "Front End Development Libraries",
+			"issued": "November 7, 2021",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/front-end-development-libraries"
+		},
+		{
+			"id": 4,
+			"name": "Data Visualization",
+			"issued": "May 19, 2022",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/data-visualization"
+		},
+		{
+			"id": 5,
+			"name": "Back End Development and APIs",
+			"issued": "May 21, 2022",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/back-end-development-and-apis"
+		},
+		{
+			"id": 6,
+			"name": "Quality Assurance",
+			"issued": "July 10, 2022",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/quality-assurance-v7"
+		},
+		{
+			"id": 7,
+			"name": "Scientific Computing with Python",
+			"issued": "June 28, 2022",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/scientific-computing-with-python-v7"
+		},
+		{
+			"id": 8,
+			"name": "Postman API Fundamentals Student Expert",
+			"issued": "Feb 2, 2023",
+			"issuer": "Postman",
+			"url": "https://badgr.com/public/assertions/0WpJy0gsTDGJQm-FzMHhyg?identity__email=ahmet@news47ell.com"
+		},
+		{
+			"id": 9,
+			"name": "Frontend Developer (React)",
+			"issued": "Sep 9, 2024",
+			"issuer": "HackerRank",
+			"url": "https://www.hackerrank.com/certificates/e9544a5a1b3d"
+		}
+	],
+	"skills": [
+		{
+			"id": 1,
+			"category": "Front End",
+			"keywords": [
+				"HTML5",
+				"CSS",
+				"Javascript",
+				"TypeScript",
+				"React.js",
+				"Vue.js"
+			]
+		},
+		{
+			"id": 2,
+			"category": "Back End",
+			"keywords": ["Node.js", "Python"]
+		},
+		{
+			"id": 3,
+			"category": "Database",
+			"keywords": ["SQL", "PostgreSQL", "MySQL"]
+		},
+		{
+			"id": 4,
+			"category": "Framework",
+			"keywords": [
+				"Astro",
+				"Next.js",
+				"Nuxt.js",
+				"SvelteKit",
+				"Tailwind CSS",
+				"Express.js"
+			]
+		},
+		{
+			"id": 5,
+			"category": "Technical",
+			"keywords": ["Git", "DNS Management", "Testing", "API", "SEO"]
+		}
+	],
+	"languages": [
+		{
+			"id": 1,
+			"language": "Arabic",
+			"fluency": "Native speaker"
+		},
+		{
+			"id": 2,
+			"language": "English",
+			"fluency": "Bilingual"
+		},
+		{
+			"id": 3,
+			"language": "Turkish",
+			"fluency": "Limited"
+		}
+	],
+	"projects": [
+		{
+			"name": "News47ell",
+			"description": "My Personal Blog/Portfolio where I like to experiment with new technologies and write about them.",
+			"technologies": [
+				"Astro",
+				"Tailwind CSS",
+				"Turso",
+				"Drizzle ORM",
+				"MDX",
+				"Cloudflare Pages"
+			],
+			"url": "https://www.news47ell.com/",
+			"source": "https://github.com/Music47ell/News47ell/"
+		},
+		{
+			"name": "Dashboard",
+			"description": "A Dashboard that displays data from various APIs. Such as CodeStats, Trakt, and more.",
+			"technologies": [
+				"Next.js",
+				"Tailwind CSS",
+				"Turso",
+				"Drizzle ORM",
+				"Vercel"
+			],
+			"url": "https://dashboard.news47ell.com/",
+			"source": "https://github.com/Music47ell/Dashboard/"
+		},
+		{
+			"name": "Analytics",
+			"description": "A simple analytics tool that I use to track my blog's traffic.",
+			"technologies": [
+				"SvelteKit",
+				"Tailwind CSS",
+				"Turso",
+				"Drizzle ORM",
+				"Cloudflare Pages"
+			],
+			"url": "https://analytics.news47ell.com/",
+			"source": "https://github.com/Music47ell/Analytics/"
+		}
+	]
+}

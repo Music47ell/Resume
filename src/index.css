@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: black;
+}
+
+@media print {
+	/* Hide default headers and footers */
+	@page {
+		margin: 0;
+	}
+
+	/* General adjustments for better print layout */
+	body {
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+}
