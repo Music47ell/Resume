@@ -121,6 +121,20 @@
 			"issued": "Sep 9, 2024",
 			"issuer": "HackerRank",
 			"url": "https://www.hackerrank.com/certificates/e9544a5a1b3d"
+		},
+		{
+			"id": 10,
+			"name": "Software Engineer Intern",
+			"issued": "Oct 3, 2024",
+			"issuer": "HackerRank",
+			"url": "https://www.hackerrank.com/certificates/49b857441268"
+		},
+		{
+			"id": 9,
+			"name": "Relational Database",
+			"issued": "Oct 9, 2024",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/relational-database-v8"
 		}
 	],
 	"skills": [
