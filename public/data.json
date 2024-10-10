@@ -142,6 +142,13 @@
 			"issued": "Oct 10, 2024",
 			"issuer": "FreeCodeCamp",
 			"url": "https://www.freecodecamp.org/certification/music47ell/javascript-algorithms-and-data-structures-v8"
+		},
+		{
+			"id": 13,
+			"name": "Data Analysis with Python",
+			"issued": "Oct 10, 2024",
+			"issuer": "FreeCodeCamp",
+			"url": "https://freecodecamp.org/certification/music47ell/data-analysis-with-python-v7"
 		}
 	],
 	"skills": [
