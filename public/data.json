@@ -130,11 +130,18 @@
 			"url": "https://www.hackerrank.com/certificates/49b857441268"
 		},
 		{
-			"id": 9,
+			"id": 11,
 			"name": "Relational Database",
 			"issued": "Oct 9, 2024",
 			"issuer": "FreeCodeCamp",
 			"url": "https://www.freecodecamp.org/certification/music47ell/relational-database-v8"
+		},
+		{
+			"id": 12,
+			"name": "JavaScript Algorithms and Data Structures (Beta)",
+			"issued": "Oct 10, 2024",
+			"issuer": "FreeCodeCamp",
+			"url": "https://www.freecodecamp.org/certification/music47ell/javascript-algorithms-and-data-structures-v8"
 		}
 	],
 	"skills": [
